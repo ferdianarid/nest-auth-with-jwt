@@ -5,6 +5,10 @@
 # env
 .env
 
+# secret config
+src/config
+src/config/index.ts
+
 # Logs
 logs
 *.log
